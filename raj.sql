@@ -1,1 +1,3 @@
-hi this ifs Query Analyazer 
+hi this is Query Analyazer 
+void main
+getch;
